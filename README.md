@@ -2,9 +2,9 @@
 
 <p>🌱 I’m currently learning frontend development using jasavascript.</p>
 
-<p>My name is Renato, I´m a professional developer from CO</p>
+<p>🧑‍🚀 My name is Renato, I´m a professional developer from CO</p>
 
-<p>:seedling: Currently I'm learning Javascript</p>
+<p>🧑‍💻 Currently I'm learning Javascript</p>
 
 <h2>Technologies & Tools</h2>
 
@@ -59,4 +59,4 @@
 
 <h1>Some Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus-coder&layout=compact&theme=dark)](https://github.com/renatocuellar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocuellar&layout=compact&theme=dark)](https://github.com/renatocuellar/github-readme-stats)
