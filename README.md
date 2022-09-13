@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Renato Cuéllar</h1>
 
-<p>🌱 I’m currently learning frontend development using jasavascript.</p>
+<p>🌱 I’m currently learning frontend development using javascript.</p>
 
 <p>🧑‍🚀 My name is Renato, I´m a professional developer from CO</p>
 
