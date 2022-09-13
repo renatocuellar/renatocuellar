@@ -1,11 +1,62 @@
-### Hi there 👋 I'm Renato Cuéllar
+<h1>Hi there 👋 I'm Renato Cuéllar</h1>
 
-<!--
-**renatocuellar/renatocuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🌱 I’m currently learning frontend development using jasavascript.</p>
 
-Here are some ideas to get you started:
+<p>My name is Renato, I´m a professional developer from CO</p>
 
-- 🔭 I’m currently working on Tatiendo.com and my personal projects.
-- 🌱 I’m currently learning frontend development.
-- 📫 You to reach me on Instagram
+<p>:seedling: Currently I'm learning Javascript</p>
 
+<h2>Technologies & Tools</h2>
+
+<table width="420px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="100px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>GIT</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Node.js</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+        </tr>
+        <tr valign="bottom">
+            <td width="100px" align="center">
+            <span><strong>npm</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>SASS</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="100px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h1>Some Stats</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
