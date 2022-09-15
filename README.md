@@ -6,7 +6,7 @@
 
 <p>🧑‍💻 Currently I'm learning Javascript</p>
     
-<h2>Technologies & Tools</h2>
+<h2 align="center">Technologies & Tools</h2>
 
 <section>
     <table width="420px" align="center">
