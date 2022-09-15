@@ -6,10 +6,11 @@
 
 <p>🧑‍💻 Currently I'm learning Javascript</p>
 
-<h2>Technologies & Tools</h2>
-
 <section align="center>
-    <table width="420px">
+    
+<h2>Technologies & Tools</h2>
+    
+    <table width="420px" align="center>
         <tbody>
             <tr valign="top">
                 <td width="100px" align="center">
