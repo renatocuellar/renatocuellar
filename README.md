@@ -7,7 +7,8 @@
 <p>🧑‍💻 Currently I'm learning Javascript</p>
     
 <h2>Technologies & Tools</h2>
-    
+
+<section>
     <table width="420px" align="center">
         <tbody>
             <tr valign="top">
@@ -56,7 +57,7 @@
          </tr>
         </tbody>
     </table>
-
+</section>
 <section align="center">
 <h2>Some Stats</h2>
 
