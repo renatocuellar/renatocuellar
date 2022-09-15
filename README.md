@@ -8,7 +8,7 @@
 
 <h2>Technologies & Tools</h2>
 
-<table width="420px" align="center">
+<table width="420px" align="left">
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
