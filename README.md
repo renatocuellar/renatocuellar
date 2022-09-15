@@ -9,7 +9,7 @@
 <h2>Technologies & Tools</h2>
 
 <section>
-    <table width="420px" align="left">
+    <table width="420px" align="center">
         <tbody>
             <tr valign="top">
                 <td width="100px" align="center">
