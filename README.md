@@ -8,7 +8,7 @@
 
 <h2>Technologies & Tools</h2>
 
-<table width="420px" align="left">
+<table width="420px" align="center">
     <tbody>
         <tr valign="top">
             <td width="100px" align="center">
@@ -58,5 +58,5 @@
 </table>
 <br>
 <h2>Some Stats</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocuellar&layout=compact&theme=dark)](https://github.com/renatocuellar/github-readme-stats)
+<a align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocuellar&layout=compact&theme=dark)](https://github.com/renatocuellar/github-readme-stats)</a>
