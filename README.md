@@ -58,5 +58,5 @@
 </table>
 <br>
 <h2>Some Stats</h2>
-<a align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocuellar&layout=compact&theme=dark)](https://github.com/renatocuellar/github-readme-stats)</a>
+<section align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatocuellar&layout=compact&theme=dark)](https://github.com/renatocuellar/github-readme-stats) </section>
