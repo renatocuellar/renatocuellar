@@ -8,8 +8,8 @@
 
 <h2>Technologies & Tools</h2>
 
-<section>
-    <table width="420px" align="center">
+<section align="center>
+    <table width="420px">
         <tbody>
             <tr valign="top">
                 <td width="100px" align="center">
