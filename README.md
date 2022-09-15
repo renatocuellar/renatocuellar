@@ -5,12 +5,10 @@
 <p>🧑‍🚀 My name is Renato, I´m a professional developer from CO</p>
 
 <p>🧑‍💻 Currently I'm learning Javascript</p>
-
-<section align="center>
     
-<h2>Technologies & Tools</h2>
+<h2 align="center">Technologies & Tools</h2>
     
-    <table width="420px" align="center>
+    <table width="420px" align="center">
         <tbody>
             <tr valign="top">
                 <td width="100px" align="center">
@@ -58,7 +56,7 @@
          </tr>
         </tbody>
     </table>
-</section>
+
 <section align="center">
 <h2>Some Stats</h2>
 
