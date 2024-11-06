@@ -18,9 +18,9 @@
                 </td>
                 <td width="100px" align="center">
                 <span><strong>Python</strong></span><br>
-                <img height=60 src="https://renatocuellar.com/wp-content/uploads/2024/11/python-svgrepo-com.svg" />
+                <img height=60 src="https://renatocuellar.com/wp-content/uploads/2024/11/python-logo-only.svg" />
                 </td>
-                <td width="130px" align="center">
+                <td width="100px" align="center">
                 <span><strong>JavaScript</strong></span><br>
                 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
                 </td>
