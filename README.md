@@ -1,10 +1,10 @@
 <h1>Hi there 👋 I'm Renato Cuéllar</h1>
 
-<p>🌱 I’m currently learning frontend development using javascript.</p>
+<p>🌱 I’m currently learning Python, expanding my skills in programming and exploring various areas of development.</p>
 
-<p>🧑‍🚀 My name is Renato, I´m a professional developer from CO</p>
+<p>🧑‍🚀 My name is Renato, a professional developer from Colombia with a passion for continuous learning and growth.</p>
 
-<p>🧑‍💻 Currently I'm learning Javascript</p>
+<p>🧑‍💻 At the moment, I’m focused on deepening my knowledge of Python and improving my coding skills.</p>
     
 <h2 align="center">Technologies & Tools</h2>
 
@@ -17,8 +17,8 @@
                 <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                 </td>
                 <td width="100px" align="center">
-                <span><strong>Redux</strong></span><br>
-                <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+                <span><strong>Python</strong></span><br>
+                <img height=60 src="https://renatocuellar.com/wp-content/uploads/2024/11/python-svgrepo-com.svg" />
                 </td>
                 <td width="100px" align="center">
                 <span><strong>JavaScript</strong></span><br>
